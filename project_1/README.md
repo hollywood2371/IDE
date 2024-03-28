@@ -1,16 +1,16 @@
 # Проект 1 Работа с базой днных резюме от HeadHunter.
 
 ## Оглавление
-[1.Описание проекта](https://github.com/hollywood2371/IDE/tree/main/project_0/READMY.md#Описание-проекта)
+[1.Описание проекта](https://github.com/hollywood2371/IDE/tree/main/project_0/README.md#Описание-проекта)
 
-[2.Какой кейс решаем](https://github.com/hollywood2371/IDE/tree/main/project_1/READMY.md#акой-кейс-решаем)
+[2.Какой кейс решаем](https://github.com/hollywood2371/IDE/tree/main/project_1/README.md#акой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/hollywood2371/IDE/tree/main/project_1/READMY.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/hollywood2371/IDE/tree/main/project_1/README.md#Краткая-информация-о-данных)
 
-[4.Этапы работы над проектом](https://github.com/hollywood2371/IDE/tree/main/project_1/READMY.md#Этапы-работы-над-проектом)
-[5. Результаты](https://github.com/hollywood2371/IDE/tree/main/project_1/READMY.md#Результаты)
+[4.Этапы работы над проектом](https://github.com/hollywood2371/IDE/tree/main/project_1/README.md#Этапы-работы-над-проектом)
+[5. Результаты](https://github.com/hollywood2371/IDE/tree/main/project_1/README.md#Результаты)
 
-[6. Выводы](https://github.com/hollywood2371/IDE/tree/main/project_1/READMY.md#Выводы)
+[6. Выводы](https://github.com/hollywood2371/IDE/tree/main/project_1/README.md#Выводы)
 
 
 ## Описание проекта
