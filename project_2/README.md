@@ -3,7 +3,7 @@
 ## Оглавление
 [1.Описание проекта](https://github.com/hollywood2371/IDE/tree/main/project_2/README.md#Описание-проекта)
 
-[2.Какой кейс решаем](https://github.com/hollywood2371/IDE/tree/main/project_2/README.md#акой-кейс-решаем)
+[2.Какой кейс решаем](https://github.com/hollywood2371/IDE/tree/main/project_2/README.md#какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/hollywood2371/IDE/tree/main/project_2/README.md#Краткая-информация-о-данных)
 
@@ -36,7 +36,7 @@
 3. детальный анализ вакансий;
 4. анализ работодателей;
 5. предметный анализ.
-## Результаты
+## Выводы
 Главным результатом данной работы является анализ вакансий по направлении Data Science.
 
 
