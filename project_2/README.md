@@ -8,6 +8,7 @@
 [3. Краткая информация о данных](https://github.com/hollywood2371/IDE/tree/main/project_2/README.md#Краткая-информация-о-данных)
 
 [4.Этапы работы над проектом](https://github.com/hollywood2371/IDE/tree/main/project_2/README.md#Этапы-работы-над-проектом)
+
 [5. Результаты](https://github.com/hollywood2371/IDE/tree/main/project_2/README.md#Результаты)
 
 [6. Выводы](https://github.com/hollywood2371/IDE/tree/main/project_2/README.md#Выводы)
@@ -40,4 +41,4 @@
 Главным результатом данной работы является анализ вакансий по направлении Data Science.
 
 
-:arrow up:[К оглавлению](https://github.com/hollywood2371/IDE/tree/main/project_2/READMY.md#Оглавление)
+:arrow up:[К оглавлению](https://github.com/hollywood2371/IDE/tree/main/project_2/READMY.#Оглавление)
